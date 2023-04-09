@@ -3,11 +3,11 @@
   <title>Bori</title>
   
   <subtitle>波飞</subtitle>
-  <link href="https://broli11.github.io/atom.xml" rel="self"/>
+  <link href="https://gitee.com/likeyoujrx/likeyoujrx.git/atom.xml" rel="self"/>
   
-  <link href="https://broli11.github.io/"/>
+  <link href="https://gitee.com/likeyoujrx/likeyoujrx.git/"/>
   <updated>2023-04-06T10:33:38.238Z</updated>
-  <id>https://broli11.github.io/</id>
+  <id>https://gitee.com/likeyoujrx/likeyoujrx.git/</id>
   
   <author>
     <name>波飞</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://broli11.github.io/2023/04/06/hello-world/"/>
-    <id>https://broli11.github.io/2023/04/06/hello-world/</id>
+    <link href="https://gitee.com/likeyoujrx/likeyoujrx.git/2023/04/06/hello-world/"/>
+    <id>https://gitee.com/likeyoujrx/likeyoujrx.git/2023/04/06/hello-world/</id>
     <published>2023-04-06T10:33:38.238Z</published>
     <updated>2023-04-06T10:33:38.238Z</updated>
     
