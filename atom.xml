@@ -3,11 +3,11 @@
   <title>BoBo</title>
   
   <subtitle>波飞</subtitle>
-  <link href="https://gitee.com/likeyoujrx/likeyoujrx.git/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://gitee.com/likeyoujrx/likeyoujrx.git/"/>
+  <link href="http://example.com/"/>
   <updated>2023-04-06T10:33:38.238Z</updated>
-  <id>https://gitee.com/likeyoujrx/likeyoujrx.git/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>波飞</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://gitee.com/likeyoujrx/likeyoujrx.git/2023/04/06/hello-world/"/>
-    <id>https://gitee.com/likeyoujrx/likeyoujrx.git/2023/04/06/hello-world/</id>
+    <link href="http://example.com/2023/04/06/hello-world/"/>
+    <id>http://example.com/2023/04/06/hello-world/</id>
     <published>2023-04-06T10:33:38.238Z</published>
     <updated>2023-04-06T10:33:38.238Z</updated>
     
